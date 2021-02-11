@@ -1,4 +1,4 @@
-# 2008_fs_worm
+# Final_Project
 A worm being coded by fullstack academy students
 
-Ryan Bell, David Moore, Isaac Flore s
+Isaac Flores,Ryan Bell, David Moore
